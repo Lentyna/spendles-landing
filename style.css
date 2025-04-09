@@ -1,0 +1,39 @@
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fbbf24;
+    color: #111827;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.description {
+    font-size: 1.2rem;
+    color: #1f2937;
+    margin-bottom: 10px;
+}
+
+.slogan {
+    font-size: 2rem;
+    color: #111827;
+    margin-bottom: 10px;
+}
+
+.coming-soon {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #16a34a;
+}
